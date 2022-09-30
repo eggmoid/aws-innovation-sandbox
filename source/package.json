@@ -11,13 +11,13 @@
         "cdk": "cdk"
     },
     "devDependencies": {
-        "@aws-cdk/assert": "1.64.1",
-        "@types/jest": "^25.2.1",
+        "@aws-cdk/assert": "^1.64.1",
+        "@types/jest": "^26.0.14",
         "@types/node": "10.17.5",
-        "jest": "^25.5.0",
-        "ts-jest": "^25.3.1",
+        "jest": "^26.4.2",
+        "ts-jest": "^26.3.0",
         "ts-node": "^8.1.0",
-        "typescript": "~3.7.2"
+        "typescript": "~3.8.0"
     },
     "dependencies": {
         "@aws-cdk/aws-appstream": "^1.64.1",
@@ -30,9 +30,9 @@
         "@aws-cdk/aws-lambda": "^1.64.1",
         "@aws-cdk/aws-ram": "^1.64.1",
         "@aws-cdk/aws-s3": "^1.64.1",
-        "@aws-cdk/aws-sns": "1.64.1",
-        "@aws-cdk/aws-sns-subscriptions": "1.64.1",
-        "@aws-cdk/aws-sqs": "1.64.1",
+        "@aws-cdk/aws-sns": "^1.64.1",
+        "@aws-cdk/aws-sns-subscriptions": "^1.64.1",
+        "@aws-cdk/aws-sqs": "^1.64.1",
         "@aws-cdk/aws-stepfunctions": "^1.64.1",
         "@aws-cdk/aws-stepfunctions-tasks": "^1.64.1",
         "@aws-cdk/core": "^1.64.1",
