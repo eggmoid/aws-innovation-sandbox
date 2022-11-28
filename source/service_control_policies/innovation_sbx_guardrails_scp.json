@@ -31,7 +31,12 @@
                 "iam:SimulatePrincipalPolicy",
                 "iam:ChangePassword",
                 "iam:CreateAccessKey",
-                "iam:UpdateAccessKey"
+                "iam:UpdateAccessKey",
+                "iam:CreateRole",
+                "iam:AttachRolePolicy",
+                "iam:CreateInstanceProfile",
+                "iam:AddRoleToInstanceProfile",
+                "iam:CreateServiceLinkedRole"
             ],
             "Resource": [
                 "arn:aws:iam::*:*"
